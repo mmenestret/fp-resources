@@ -55,6 +55,21 @@
 - [Monad transformers down to earth - Gabriele Petronella](https://www.youtube.com/watch?v=jd5e71nFEZM)
     - Monad transformer
 
-- [he Eff monad, one monad to rule them all - Eric Torreborre](https://www.youtube.com/watch?v=KGJLeHhsZBo)
+- [The Eff monad, one monad to rule them all - Eric Torreborre](https://www.youtube.com/watch?v=KGJLeHhsZBo)
+    - Eff monad
+
+- [Category Theory - Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
+    - Category theory playlist
+
+- [Monad Stacks or: How I Learned to Stop Worrying and Love the Free Monad – Harry Laoulakos](https://www.youtube.com/watch?v=2TDDDFGa8-0)
+    - Monad stacks
+
+- [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
+
 
 ## Articles
+
+- [Trampolining and stack safety in Scala](https://medium.com/@olxc/trampolining-and-stack-safety-in-scala-d8e86474ddfa)
+    - Trampolining, tail call elimination
+
+- [Introduction to Tagless final](https://www.beyondthelines.net/programming/introduction-to-tagless-final/)

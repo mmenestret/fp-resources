@@ -1,0 +1,21 @@
+Fraudia v2:
+
+- ADT
+- Typeclasses
+- Generic abstract interface (functional APIs)
+- Interpretor pattern (free monad / tagless final)
+- IO (scalaz ZIO / Monix Task)
+- Functional Patterns (Monoid / Validation / Reader - State - ... - Monads / ...)
+
+- [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
+
+- [Introduction to Tagless final](https://www.beyondthelines.net/programming/introduction-to-tagless-final/)
+
+- [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/)
+
+- [Type classes in Scala](https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html)
+
+- [Functional APIs: an OOP approach to FP](https://blog.hablapps.com/2017/06/26/functional-apis-an-oop-approach-to-fp/)
+
+- https://monix.io/docs/3x/eval/task.html
+

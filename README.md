@@ -66,6 +66,11 @@
 
 - [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
 
+- [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
+
+- [GETTING MORE MILEAGE FROM YOUR MONADS WITH MTL - Paweł Szulc](https://www.youtube.com/watch?v=knK70T4X7YE)
+
+- [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
 
 ## Articles
 
@@ -73,3 +78,25 @@
     - Trampolining, tail call elimination
 
 - [Introduction to Tagless final](https://www.beyondthelines.net/programming/introduction-to-tagless-final/)
+
+- [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/)
+
+- [Type classes in Scala](https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html)
+
+- [Functional APIs: an OOP approach to FP](https://blog.hablapps.com/2017/06/26/functional-apis-an-oop-approach-to-fp/) 
+
+- [Types: Never commit too early](https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part1)
+
+## Academic papers
+
+- [The morning papers](https://blog.acolyer.org/)
+
+- [Theorems for Free! - P. Wadler](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf)
+
+- [Propositions as types - P. Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+
+- [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
+
+- [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
+
+- [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)

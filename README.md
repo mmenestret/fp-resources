@@ -87,6 +87,11 @@
 
 - [Types: Never commit too early](https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early-part1)
 
+- [Implicits, type classes, and extension methods](https://kubuszok.com/compiled/implicits-type-classes-and-extension-methods/)
+
+- [Free Monoids and Free Monads](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
+
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

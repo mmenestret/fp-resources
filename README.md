@@ -91,6 +91,7 @@
 
 - [Free Monoids and Free Monads](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
 
+- [Kinds of types in Scala](https://kubuszok.com/compiled/kinds-of-types-in-scala/)
 
 ## Academic papers
 

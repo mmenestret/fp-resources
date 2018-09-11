@@ -93,6 +93,8 @@
 
 - [Kinds of types in Scala](https://kubuszok.com/compiled/kinds-of-types-in-scala/)
 
+- [Monadic EDSLs in Scala](https://typelevel.org/blog/2016/09/21/edsls-part-1.html)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

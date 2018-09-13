@@ -95,6 +95,8 @@
 
 - [Monadic EDSLs in Scala](https://typelevel.org/blog/2016/09/21/edsls-part-1.html)
 
+- [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)
@@ -108,3 +110,33 @@
 - [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
 
 - [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+
+## Blogs
+
+- [Typelevel](https://typelevel.org/blog/)
+
+- [SoftwareMill](https://softwaremill.com/blog/)
+
+- [J. De Goes](http://degoes.net/)
+
+- [Runar](http://blog.higher-order.com/)
+
+- [Habla](https://blog.hablapps.com/)
+
+- [Li Haoyi](http://www.lihaoyi.com/)
+
+## Books
+
+- [Fonctional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+
+- [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) 
+
+- [https://underscore.io/books/scala-with-cats/](https://underscore.io/books/scala-with-cats/)
+
+- [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)(Not red yet)
+
+## To read
+
+- [EDSLs](https://typelevel.org/blog/2016/09/21/edsls-part-1.html)
+
+- [Practical Type Safety](http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html)

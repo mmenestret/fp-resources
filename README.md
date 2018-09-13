@@ -127,7 +127,7 @@
 
 ## Books
 
-- [Fonctional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+- [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 
 - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) 
 

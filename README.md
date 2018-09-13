@@ -133,7 +133,7 @@
 
 - [https://underscore.io/books/scala-with-cats/](https://underscore.io/books/scala-with-cats/)
 
-- [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)(Not red yet)
+- [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not red yet)
 
 ## To read
 

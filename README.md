@@ -166,6 +166,18 @@
 
 - [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not red yet)
 
+## Newsletters
+
+- [Scalatimes](https://scalatimes.com/)
+
+- [Awesome Scala](https://scala.libhunt.com/newsletter)
+
+## Podcasts
+
+- [Functional Geekery](https://www.functionalgeekery.com/)
+
+- [Co-recursive](https://corecursive.com/category/podcast/) (never tried yet)
+
 ## To read
 
 - [EDSLs](https://typelevel.org/blog/2016/09/21/edsls-part-1.html)

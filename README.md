@@ -166,6 +166,14 @@
 
 - [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not red yet)
 
+## Chat rooms
+
+- [Scala FR gitter](https://gitter.im/scala/fr)
+
+- [Cats gitter](https://gitter.im/typelevel/cats)
+
+- [Functional programming Slack](https://functionalprogramming.slack.com/messages/C0436F0PY/)
+
 ## Newsletters
 
 - [Scalatimes](https://scalatimes.com/)

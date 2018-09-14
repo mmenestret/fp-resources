@@ -126,6 +126,8 @@
 
 - [Kinds of types in Scala](https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/)
 
+- [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)
@@ -139,6 +141,8 @@
 - [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
 
 - [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+
+- [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/index.html)
 
 ## Blogs
 

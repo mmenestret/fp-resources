@@ -2,6 +2,8 @@
 
 ## Talks
 
+### FP in general
+
 - [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
   - Trampolining, Higher Kinded Types, Benefits of FP
 
@@ -11,46 +13,33 @@
 - [Functional Patterns in Domain Modeling — Debasish Ghosh](https://www.youtube.com/watch?v=U0Rk9Knq8Vk)
     - Functionnal domain modeling
 
+- [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
+    - FP design
+
+- [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
+    - FP design    
+
+### Effects
+
 - [Functional Programming with Effects - Rob Norris](https://www.youtube.com/watch?v=po3wmq4S15A)
     - Effects
 
 - [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
     - IO
 
+### Free Monad / Tagless final and monad stacks
+
 - [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
     - Free monads, Tagless final
 
-- [Mastering Typeclass Induction — Aaron Levin](https://www.youtube.com/watch?v=Nm4OIhjjA2o)
-    - Typeclasses
-
-- [Beyond Scala Lenses — Julien Truffaut](https://www.youtube.com/watch?v=6nyGVgGEKdA)
-    - Optics
-
-- [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
-    - FP design
-
 - [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
-
-- [Oh, all the things you'll traverse - Luka Jacobowitz](https://www.youtube.com/watch?v=GhLqTZaix5U)
-    - Traverse
+    - Free applicatives
 
 - [Advanced Tagless Final - Saying farewell to Free - Luka Jacobowitz](https://www.youtube.com/watch?v=E9iRYNuTIYA)
     - Free monad, tagless final
 
-- [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
-    - FP design
-
 - [Free as in Monads by Daniel Spiewak](https://www.youtube.com/watch?v=aKUQUIHRGec)
-    - Free monad    
-
-- [Pure Functional Database Programming with Fixpoint Types — Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
-    - Fixpoint
-
-- [Category Theory for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
-    - Category theory
-
-- [Propositions as Types - Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)    
-    - Realtion between logic and computation
+    - Free monad
 
 - [Monad transformers down to earth - Gabriele Petronella](https://www.youtube.com/watch?v=jd5e71nFEZM)
     - Monad transformer
@@ -58,19 +47,54 @@
 - [The Eff monad, one monad to rule them all - Eric Torreborre](https://www.youtube.com/watch?v=KGJLeHhsZBo)
     - Eff monad
 
-- [Category Theory - Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
-    - Category theory playlist
-
 - [Monad Stacks or: How I Learned to Stop Worrying and Love the Free Monad – Harry Laoulakos](https://www.youtube.com/watch?v=2TDDDFGa8-0)
     - Monad stacks
 
 - [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
+    - Free and tagless in a real application
 
 - [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
+    - MTL style
 
 - [GETTING MORE MILEAGE FROM YOUR MONADS WITH MTL - Paweł Szulc](https://www.youtube.com/watch?v=knK70T4X7YE)
+    - MTL style
 
 - [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
+    - Free monad
+
+### Typeclass
+
+- [Mastering Typeclass Induction — Aaron Levin](https://www.youtube.com/watch?v=Nm4OIhjjA2o)
+    - Typeclasses
+
+- [Oh, all the things you'll traverse - Luka Jacobowitz](https://www.youtube.com/watch?v=GhLqTZaix5U)
+    - Traverse    
+
+### Optics
+
+- [Beyond Scala Lenses — Julien Truffaut](https://www.youtube.com/watch?v=6nyGVgGEKdA)
+    - Optics
+
+### Recursion schemes
+
+- [Pure Functional Database Programming with Fixpoint Types — Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
+    - Fixpoint, Recursion schemes
+
+- [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali](https://www.youtube.com/watch?v=XZ9nPZbaYfE)
+    - Recursion schemes
+
+- [THOSE 10000 CLASSES I NEVER WROTE - Valentin Kasas](https://www.youtube.com/watch?v=1TUgSaD6cCo)
+
+### Theory
+
+- [Category Theory for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
+    - Category theory
+
+- [Propositions as Types - Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)    
+    - Realtion between logic and computation
+
+- [Category Theory - Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
+    - Category theory playlist
 
 ## Articles
 
@@ -100,6 +124,8 @@
 
 - [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
 
+- [Kinds of types in Scala](https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)
@@ -127,6 +153,8 @@
 - [Habla](https://blog.hablapps.com/)
 
 - [Li Haoyi](http://www.lihaoyi.com/)
+
+- [Kubuszok](https://kubuszok.com/#blog)
 
 ## Books
 

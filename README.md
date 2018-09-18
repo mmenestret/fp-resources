@@ -128,6 +128,8 @@
 
 - [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
 
+- [Gist about Fabio Labella's on inital vs final tagless encodings](https://gist.github.com/mmenestret/0b746cfd650796a639723ee74a3de302)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

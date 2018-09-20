@@ -1,4 +1,4 @@
-# Curated list of great Scala oriented (but not always) Functionnal Porgramming resources
+# Curated list of great Scala oriented (but not always) Functionnal Programming resources
 
 ## Talks
 

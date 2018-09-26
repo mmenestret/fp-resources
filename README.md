@@ -17,7 +17,11 @@
     - FP design
 
 - [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
-    - FP design    
+    - FP design
+    
+### ADT
+
+- [Why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak)
 
 ### Effects
 

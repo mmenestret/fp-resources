@@ -170,6 +170,9 @@
 
 - [Kubuszok](https://kubuszok.com/#blog)
 
+- [FP Complete](https://www.fpcomplete.com/blog)
+    - Haskell
+
 ## Books
 
 - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)

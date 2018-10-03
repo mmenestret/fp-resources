@@ -30,6 +30,10 @@
 
 - [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
     - IO
+### State
+
+- [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
+    - State, StateT, IndexedState
 
 ### Free Monad / Tagless final and monad stacks
 

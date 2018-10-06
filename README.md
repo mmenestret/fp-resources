@@ -76,7 +76,7 @@
     - Typeclasses
 
 - [Oh, all the things you'll traverse - Luka Jacobowitz](https://www.youtube.com/watch?v=GhLqTZaix5U)
-    - Traverse    
+    - Traverse
 
 ### Optics
 
@@ -105,6 +105,10 @@
     - Category theory playlist
 
 ## Articles
+
+- [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
+
+- [Anatomy of a type class](http://geekocephale.com/blog/2018/10/05/typeclasses)
 
 - [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types)
     - Scala type system
@@ -172,6 +176,8 @@
 
 - [FP Complete](https://www.fpcomplete.com/blog)
     - Haskell
+
+- [Mine ! :D](https://github.com/mmenestret/fp-ressources/)
 
 ## Books
 

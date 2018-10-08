@@ -19,6 +19,8 @@
 - [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
     - FP design
     
+- [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)    
+    
 ### ADT
 
 - [Why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak)

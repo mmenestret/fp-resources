@@ -1,4 +1,4 @@
-# Curated list of great Scala oriented (but not always) Functionnal Programming resources
+# Curated list of great Scala oriented (but not always) Functional Programming resources
 
 ## Talks
 
@@ -143,6 +143,8 @@
 - [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
 
 - [Gist about Fabio Labella's on inital vs final tagless encodings](https://gist.github.com/mmenestret/0b746cfd650796a639723ee74a3de302)
+
+- [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
 
 ## Academic papers
 

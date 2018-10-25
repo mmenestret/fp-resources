@@ -146,6 +146,8 @@
 
 - [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
 
+- [How do Algebraic Data types compare to the concept of inheritance in Object Oriented Languages ?](https://www.quora.com/How-do-Algebraic-Data-types-in-say-Haskell-compare-to-the-concept-of-inheritance-in-Object-Oriented-Languages-in-say-Java/answer/Bartosz-Milewski?share=1c2ac3a8)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)
@@ -192,6 +194,8 @@
 - [https://underscore.io/books/scala-with-cats/](https://underscore.io/books/scala-with-cats/)
 
 - [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not red yet)
+
+- [Category theory for programmers](http://www.blurb.com/b/9008339-category-theory-for-programmers) (Not red yet)
 
 ## Chat rooms
 

@@ -148,6 +148,8 @@
 
 - [How do Algebraic Data types compare to the concept of inheritance in Object Oriented Languages ?](https://www.quora.com/How-do-Algebraic-Data-types-in-say-Haskell-compare-to-the-concept-of-inheritance-in-Object-Oriented-Languages-in-say-Java/answer/Bartosz-Milewski?share=1c2ac3a8)
 
+- [Typeclasses in perspective](https://diogocastro.com/blog/2018/06/17/typeclasses-in-perspective/)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

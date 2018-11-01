@@ -219,7 +219,7 @@
 
 - [Co-recursive](https://corecursive.com/category/podcast/) (never tried yet)
 
-## To do...
+## To do... (stuff to read / watch)
 
 - [Practical Type Safety](http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html)
 

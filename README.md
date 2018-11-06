@@ -258,3 +258,5 @@
 
 - [A tale on Semirings](https://typelevel.org/blog/2018/11/02/semirings.html)
 
+- [Proof and types](http://www.paultaylor.eu/~pt/stable/prot.pdf)
+

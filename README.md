@@ -20,6 +20,8 @@
     - FP design
     
 - [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)    
+
+- [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
     
 ### ADT
 
@@ -36,6 +38,9 @@
 
 - [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     - State, StateT, IndexedState
+### Semigroup / Monoid
+
+- [Anatomy of semigroups and monoids](http://geekocephale.com/blog/2018/11/06/semi-monoid)
 
 ### Free Monad / Tagless final and monad stacks
 

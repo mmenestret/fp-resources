@@ -79,6 +79,8 @@
 
 - [Oh, all the things you'll traverse - Luka Jacobowitz](https://www.youtube.com/watch?v=GhLqTZaix5U)
     - Traverse
+    
+- [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)    
 
 ### Optics
 
@@ -242,8 +244,6 @@
 - [Typeclass counterexample](https://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
 
 - [Category theory material](https://www.logicmatters.net/categories/)
-
-- [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)
 
 - [Sequent calculus tutorial](http://logitext.mit.edu/logitext.fcgi/tutorial)
 

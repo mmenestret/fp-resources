@@ -157,6 +157,8 @@
 
 - [Typeclasses in perspective](https://diogocastro.com/blog/2018/06/17/typeclasses-in-perspective/)
 
+- [Inheritance vs Generics vs Typeclasses in Scala](https://dev.to/jmcclell/inheritance-vs-generics-vs-typeclasses-in-scala-20op)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

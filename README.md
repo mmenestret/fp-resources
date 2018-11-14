@@ -262,3 +262,4 @@
 
 - [Proof and types](http://www.paultaylor.eu/~pt/stable/prot.pdf)
 
+- [Blog: reasonably polymorphic](http://reasonablypolymorphic.com/)

@@ -114,6 +114,8 @@
 
 - [Category Theory - Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
     - Category theory playlist
+    
+- [Why a monad is a monoid in the category of endofunctors](https://www.youtube.com/watch?v=pvTycwaAmLo)
 
 ## Articles
 

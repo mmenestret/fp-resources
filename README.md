@@ -23,9 +23,11 @@
 
 - [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
     
-### ADT
+### Types
 
 - [Why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak)
+
+- [Type Members vs Type Parameters](https://www.youtube.com/watch?v=R8GksuRw3VI)
 
 ### Effects
 

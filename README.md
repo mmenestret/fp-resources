@@ -163,6 +163,8 @@
 
 - [Inheritance vs Generics vs Typeclasses in Scala](https://dev.to/jmcclell/inheritance-vs-generics-vs-typeclasses-in-scala-20op)
 
+- [From Type Theory to Haskell in 10 Minutes](https://www.stackbuilders.com/news/from-type-theory-to-haskell-in-10-minutes)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

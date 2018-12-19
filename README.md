@@ -165,6 +165,8 @@
 
 - [From Type Theory to Haskell in 10 Minutes](https://www.stackbuilders.com/news/from-type-theory-to-haskell-in-10-minutes)
 
+- [Testing tagless final with Discipline](https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

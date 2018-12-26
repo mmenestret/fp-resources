@@ -104,6 +104,8 @@
 
 - [THOSE 10000 CLASSES I NEVER WROTE - Valentin Kasas](https://www.youtube.com/watch?v=1TUgSaD6cCo)
 
+- [Going bananas with recursion schemes for fixed point data types - Paweł Szulc](https://www.youtube.com/watch?v=IlvJnkWH6CA)
+
 ### Theory
 
 - [Category Theory for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)

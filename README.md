@@ -121,6 +121,8 @@
     
 - [Why a monad is a monoid in the category of endofunctors](https://www.youtube.com/watch?v=pvTycwaAmLo)
 
+- [A History of Computation, Logic and Algebra](https://www.youtube.com/watch?v=c_nPnURW6BU)
+
 ## Articles
 
 - [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
@@ -219,6 +221,8 @@
 - [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not red yet)
 
 - [Category theory for programmers](http://www.blurb.com/b/9008339-category-theory-for-programmers) (Not red yet)
+
+- [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)
 
 ## Chat rooms
 

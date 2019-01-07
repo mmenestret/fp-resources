@@ -38,6 +38,10 @@
     - IO
     
 - [http4s: pure, typeful, functional HTTP in Scala – Ross Baker](https://www.youtube.com/watch?time_continue=1915&v=urdtmx4h5LE)
+    - IO, HTTP, Kleisli
+    
+- [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
+    - Stream, IO
 
 ### State
 

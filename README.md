@@ -180,6 +180,8 @@
 
 - [Testing tagless final with Discipline](https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/)
 
+- [Scala best practices](https://nrinaudo.github.io/scala-best-practices/index.html)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

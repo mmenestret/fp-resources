@@ -182,6 +182,8 @@
 
 - [Scala best practices](https://nrinaudo.github.io/scala-best-practices/index.html)
 
+- [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)

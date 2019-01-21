@@ -261,6 +261,8 @@
 
 ## To do... (stuff to read / watch)
 
+- [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)
+
 - [Practical Type Safety](http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html)
 
 - [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/index.html)

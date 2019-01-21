@@ -96,6 +96,10 @@
     
 - [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)    
 
+### Concurrency
+
+- [Concurrency with Cats-effect - Michael Pilquist](https://www.youtube.com/watch?v=Gig-f_HXvLI)
+
 ### Optics
 
 - [Beyond Scala Lenses — Julien Truffaut](https://www.youtube.com/watch?v=6nyGVgGEKdA)

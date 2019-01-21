@@ -119,6 +119,8 @@
 
 ### Theory
 
+- [Crash course into category theory - Rúnar Bjarnason](https://www.youtube.com/watch?time_continue=2&v=ml5rU06z0Fk)
+
 - [Category Theory for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
     - Category theory
 

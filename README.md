@@ -261,7 +261,7 @@
 
 - [Co-recursive](https://corecursive.com/category/podcast/) (never tried yet)
 
-## Repositories worth taking a look
+## Repositories
 
 - [Scala pet store](https://github.com/pauljamescleary/scala-pet-store)
   - Http4s, Circe, Doobie, Cats, ScalaCheck, Circe Config, Tagless Final
@@ -286,11 +286,7 @@
 
 - [From Object Algebras to Finally Tagless Interpreters](https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/)
 
-- [Algebraic effect](https://conf.researchr.org/event/scala-2017/scala-2017-papers-effekt-extensible-algebraic-effects-in-scala-short-paper-)
-
-- [Algebraic effect - Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf)
-
-- [Monad transformer variace](https://typelevel.org/blog/2018/09/29/monad-transformer-variance.html)
+- [Monad transformer variance](https://typelevel.org/blog/2018/09/29/monad-transformer-variance.html)
 
 - [Typeclass counterexample](https://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
 

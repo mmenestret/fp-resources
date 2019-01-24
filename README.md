@@ -261,6 +261,15 @@
 
 - [Co-recursive](https://corecursive.com/category/podcast/) (never tried yet)
 
+## Repositories worth taking a look
+
+- [Scala pet store](https://github.com/pauljamescleary/scala-pet-store)
+  - Http4s, Circe, Doobie, Cats, ScalaCheck, Circe Config, Tagless Final
+
+- [Befunge-93](https://github.com/SystemFw/Befunge-93)
+  - Tagless Final
+
+
 ## To do... (stuff to read / watch)
 
 - [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)

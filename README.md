@@ -190,6 +190,8 @@
 
 - [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
 
+- [Category theory and programming](http://yogsototh.github.io/Category-Theory-Presentation/categories.html)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)
@@ -224,7 +226,8 @@
 
 - [FP Complete](https://www.fpcomplete.com/blog)
     - Haskell
-
+- [Yann Esposito](http://yannesposito.com/Scratch/en/blog/)
+ 
 - [Mine ! :D](https://github.com/mmenestret/fp-ressources/)
 
 ## Books

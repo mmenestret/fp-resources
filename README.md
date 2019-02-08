@@ -8,10 +8,10 @@
   - Trampolining, Higher Kinded Types, Benefits of FP
 
 - [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
-    - Functionnal design patterns
+    - Functional design patterns
 
 - [Functional Patterns in Domain Modeling — Debasish Ghosh](https://www.youtube.com/watch?v=U0Rk9Knq8Vk)
-    - Functionnal domain modeling
+    - Functional domain modeling
 
 - [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
     - FP design
@@ -47,11 +47,12 @@
 
 - [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     - State, StateT, IndexedState
+    
 ### Semigroup / Monoid
 
 - [Anatomy of semigroups and monoids](http://geekocephale.com/blog/2018/11/06/semi-monoid)
 
-### Free Monad / Tagless final and monad stacks
+### Free Monad / Tagless Final and monad stacks
 
 - [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
     - Free monads, Tagless final
@@ -60,7 +61,7 @@
     - Free applicatives
 
 - [Advanced Tagless Final - Saying farewell to Free - Luka Jacobowitz](https://www.youtube.com/watch?v=E9iRYNuTIYA)
-    - Free monad, tagless final
+    - Free monad, Tagless final
 
 - [Free as in Monads by Daniel Spiewak](https://www.youtube.com/watch?v=aKUQUIHRGec)
     - Free monad
@@ -192,6 +193,8 @@
 
 - [Category theory and programming](http://yogsototh.github.io/Category-Theory-Presentation/categories.html)
 
+- [Structuring Functional Programs with Tagless Final](https://www.becompany.ch/en/blog/2018/06/21/tagless-final)
+
 ## Academic papers
 
 - [The morning papers](https://blog.acolyer.org/)
@@ -226,6 +229,7 @@
 
 - [FP Complete](https://www.fpcomplete.com/blog)
     - Haskell
+    
 - [Yann Esposito](http://yannesposito.com/Scratch/en/blog/)
  
 - [Mine ! :D](https://github.com/mmenestret/fp-ressources/)
@@ -238,15 +242,19 @@
 
 - [https://underscore.io/books/scala-with-cats/](https://underscore.io/books/scala-with-cats/)
 
-- [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not red yet)
+- [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) (Not read yet)
 
-- [Category theory for programmers](http://www.blurb.com/b/9008339-category-theory-for-programmers) (Not red yet)
+- Category theory for programmers (Not read yet)
+    - [Haskell](http://www.blurb.com/b/9008339-category-theory-for-programmers) 
+    - [Scala](https://github.com/typelevel/CT_from_Programmers.scala)
 
 - [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)
 
 ## Chat rooms
 
 - [Scala FR gitter](https://gitter.im/scala/fr)
+
+- [Typevel General gitter](https://gitter.im/typelevel/general)
 
 - [Cats gitter](https://gitter.im/typelevel/cats)
 
@@ -272,6 +280,7 @@
 - [Befunge-93](https://github.com/SystemFw/Befunge-93)
   - Tagless Final
 
+- [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
 
 ## To do... (stuff to read / watch)
 

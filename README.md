@@ -23,9 +23,9 @@ If you wish to track your progress in the reading list, follow these steps:
 
 `git commit -m "Marked x" `
 
-`git rebase mmenestret/master `
+`git pull mmenestret`
 
-`git push --force `
+`git push`
 
 </details>
 

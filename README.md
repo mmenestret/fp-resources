@@ -83,8 +83,6 @@ If you wish to track your progress in the reading list, follow these steps:
     
 - [ ] [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)    
 
-- [ ] [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
-
 <a name="types"></a>
 ### Types
 
@@ -112,11 +110,6 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     - State, StateT, IndexedState
-
-<a name="semigroup-monoid"></a>   
-### Semigroup / Monoid
-
-- [ ] [Anatomy of semigroups and monoids](http://geekocephale.com/blog/2018/11/06/semi-monoid)
 
 <a name="freemonad-taglessfinal-monadstacks"></a>
 ### Free Monad / Tagless Final and monad stacks
@@ -213,9 +206,15 @@ If you wish to track your progress in the reading list, follow these steps:
 <a name="articles"></a>
 ## Articles
 
+- [ ] [Anatomy of functors and category theory](http://geekocephale.com/blog/2019/02/16/functors-cat-theory)
+
+- [ ] [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
+
 - [ ] [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
 
 - [ ] [Anatomy of a type class](http://geekocephale.com/blog/2018/10/05/typeclasses)
+
+- [ ] [Anatomy of semigroups and monoids](http://geekocephale.com/blog/2018/11/06/semi-monoid)
 
 - [ ] [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types)
     - Scala type system

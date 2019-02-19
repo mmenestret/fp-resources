@@ -386,6 +386,8 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [Co-recursive](https://corecursive.com/category/podcast/) (never tried yet)
 
+- [FP podcast list](https://www.fpcasts.com/)
+
 <a name="repositories"></a>
 ## Repositories
 

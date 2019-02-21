@@ -83,6 +83,9 @@ If you wish to track your progress in the reading list, follow these steps:
     
 - [ ] [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)    
 
+- [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
+    - FP design
+    
 <a name="types"></a>
 ### Types
 

@@ -209,6 +209,8 @@ If you wish to track your progress in the reading list, follow these steps:
 <a name="articles"></a>
 ## Articles
 
+- [ ] [https://typelevel.org/blog/2019/02/06/algebraic-api-design.html](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
+
 - [ ] [Anatomy of functors and category theory](http://geekocephale.com/blog/2019/02/16/functors-cat-theory)
 
 - [ ] [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)

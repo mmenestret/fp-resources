@@ -324,7 +324,7 @@ If you wish to track your progress in the reading list, follow these steps:
 
 <a name="blogs"></a>
 
-## Lecture
+## Lectures
 
 - [ ] [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus)
 

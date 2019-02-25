@@ -323,6 +323,11 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/index.html)
 
 <a name="blogs"></a>
+
+## Lecture
+
+- [ ] [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus)
+
 ## Blogs
 
 - [ ] [Typelevel](https://typelevel.org/blog/)

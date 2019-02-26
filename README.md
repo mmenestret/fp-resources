@@ -305,6 +305,15 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Blog: reasonably polymorphic](http://reasonablypolymorphic.com/)
 
+
+### FP code pattern
+
+- [ ] [Handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) (Haskell)
+
+- [ ] [ReaderT pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
+
+- [ ] [RIO Monad](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
+
 <a name="academic-papers"></a>
 ## Academic papers
 

@@ -317,6 +317,8 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [RIO Monad](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
 
+- [ ] [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
+
 <a name="academic-papers"></a>
 ## Academic papers
 

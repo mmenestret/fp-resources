@@ -96,6 +96,9 @@ If you wish to track your progress in the reading list, follow these steps:
 <a name="effects"></a>
 ### Effects
 
+- [ ] [The Death of Final Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters)
+    - Effect, tagless final alternative
+
 - [ ] [Functional Programming with Effects - Rob Norris](https://www.youtube.com/watch?v=po3wmq4S15A)
     - Effects
 

@@ -31,68 +31,54 @@ If you wish to track your progress in the reading list, follow these steps:
 
 ## Categories
 
-* [FP in general](#fp-in-general)
-    * [Talks](#fp-in-general-talks)
-    * [Articles](#fp-in-general-articles)
-    
+* [Functional programming patterns](#fp-patterns)
+    * [Talks](#fp-patterns-talks)
+    * [Articles](#fp-patterns-articles)
 * [Types](#types)
     * [Talks](#ftypes-talks)
     * [Articles](#types-articles)
-
 * [Effects](#effects)
     * [Talks](#effects-talks)
     * [Articles](#effects-articles)
-
-* [State](#state)
-    * [Talks](#state-talks)
-    * [Articles](#state-articles)
-
 * [Semigroup / Monoid](#semigroup-monoid)
     * [Talks](#semigroup-monoid-talks)
     * [Articles](#semigroup-monoid-articles)
-
-* [Free monad / Tagless Final and monad stacks](#freemonad-taglessfinal-monadstacks)
-    * [Talks](#freemonad-taglessfinal-monadstacks-talks)
-    * [Articles](#freemonad-taglessfinal-monadstacks-articles)
-
+* [Tagless Final / MTL](#tagless-final)
+    * [Talks](#tagless-final-talks)
+    * [Articles](#tagless-final-articles)
+* [Monad stack](#monad-stack)
+    * [Talks](#monad-stack-talks)
+    * [Articles](#monad-stack-articles)
+* [Free monad](#freemonad)
+    * [Talks](#freemonad-talks)
+    * [Articles](#freemonad-articles)        
 * [Typeclass](#typeclass)
     * [Talks](#typeclass-talks)
     * [Articles](#typeclass-articles)
-
 * [Concurrency](#concurrency)
     * [Talks](#concurrency-talks)
     * [Articles](#concurrency-articles)
-
 * [Optics](#optics)
     * [Talks](#optics-talks)
     * [Articles](#optics-articles)
-
 * [Recursion Schemes](#recursion-schemes)
     * [Talks](#recursion-schemes-talks)
     * [Articles](#recursion-schemes-articles)
-
 * [Theory](#theory)
     * [Talks](#theory-talks)
     * [Articles](#theory-articles)
-
 * [Academic papers](#academic-papers)
-
 * [Blogs](#blogs)
-
 * [Books](#books)
-
 * [Chat rooms](#chat-rooms)
-
 * [Newsletters](#newsletters)
-
 * [Podcasts](#podcasts)
-
 * [Repositories](#repositories)
 
-<a name="fp-in-general"></a>
-## FP in general
+<a name="fp-patterns"></a>
+## Functional programming patterns
 
-<a name="fp-in-general-talks"></a>
+<a name="fp-patterns-talks"></a>
 ### Talks
 
 - [ ] [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
@@ -115,7 +101,7 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
     - FP design
 
-<a name="fp-in-general-articles"></a>
+<a name="fp-patterns-articles"></a>
 ### Articles
     
 <a name="types"></a>
@@ -128,7 +114,7 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Type Members vs Type Parameters](https://www.youtube.com/watch?v=R8GksuRw3VI)
 
-<a name="fp-in-general-articles"></a>
+<a name="fp-patterns-articles"></a>
 ### Articles
 
 <a name="effects"></a>
@@ -140,11 +126,11 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [The Death of Final Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters)
     - Effect, tagless final alternative
 
-- [ ] [Functional Programming with Effects - Rob Norris](https://www.youtube.com/watch?v=po3wmq4S15A)
-    - Effects
-
 - [ ] [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
     - IO
+
+- [ ] [Functional Programming with Effects - Rob Norris](https://www.youtube.com/watch?v=po3wmq4S15A)
+    - Effects
     
 - [ ] [http4s: pure, typeful, functional HTTP in Scala – Ross Baker](https://www.youtube.com/watch?time_continue=1915&v=urdtmx4h5LE)
     - IO, HTTP, Kleisli
@@ -152,38 +138,50 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
     - Stream, IO
 
-<a name="effects-articles"></a>
-### Articles
-
-<a name="state"></a>
-## State
-
-<a name="state-talks"></a>
-### Talks
-
 - [ ] [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     - State, StateT, IndexedState
 
-<a name="state-articles"></a>
-### Articles    
+<a name="effects-articles"></a>
+### Articles
 
-<a name="freemonad-taglessfinal-monadstacks"></a>
-## Free Monad / Tagless Final and monad stacks
+<a name="semigroup-monoid"></a>
+## Semigroup / Monoid
 
-<a name="freemonad-taglessfinal-monadstacks-talks"></a>
+<a name="semigroup-monoid-talks"></a>
+### Talks
+
+<a name="semigroup-monoid-articles"></a>
+### Articles
+
+<a name="tagless-final"></a>
+## Tagless final / MTL
+
+<a name="tagless-talks"></a>
 ### Talks
 
 - [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
     - Free monads, Tagless final
 
-- [ ] [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
-    - Free applicatives
-
 - [ ] [Advanced Tagless Final - Saying farewell to Free - Luka Jacobowitz](https://www.youtube.com/watch?v=E9iRYNuTIYA)
     - Free monad, Tagless final
 
-- [ ] [Free as in Monads by Daniel Spiewak](https://www.youtube.com/watch?v=aKUQUIHRGec)
-    - Free monad
+- [ ] [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
+    - Tagless final, MTL style
+
+- [ ] [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
+    - Free and tagless in a real application
+
+- [ ] [Getting more mileage from your monads with MTL - Paweł Szulc](https://www.youtube.com/watch?v=knK70T4X7YE)
+    - MTL styl    
+
+<a name="tagless-articles"></a>
+### Articles
+
+<a name="monad-stack"></a>
+## Monad stack
+
+<a name="monad-stack-talks"></a>
+### Talks
 
 - [ ] [Monad transformers down to earth - Gabriele Petronella](https://www.youtube.com/watch?v=jd5e71nFEZM)
     - Monad transformer
@@ -194,19 +192,31 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Monad Stacks or: How I Learned to Stop Worrying and Love the Free Monad – Harry Laoulakos](https://www.youtube.com/watch?v=2TDDDFGa8-0)
     - Monad stacks
 
+<a name="monad-stack-articles"></a>
+### Articles
+
+<a name="freemonad"></a>
+## Free Monad
+
+<a name="freemonad-talks"></a>
+### Talks
+
+- [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+    - Free monads, Tagless final
+
+- [ ] [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
+    - Free applicatives
+
+- [ ] [Free as in Monads by Daniel Spiewak](https://www.youtube.com/watch?v=aKUQUIHRGec)
+    - Free monad
+
 - [ ] [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
     - Free and tagless in a real application
-
-- [ ] [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
-    - MTL style
-
-- [ ] [GETTING MORE MILEAGE FROM YOUR MONADS WITH MTL - Paweł Szulc](https://www.youtube.com/watch?v=knK70T4X7YE)
-    - MTL style
 
 - [ ] [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
     - Free monad
 
-<a name="freemonad-taglessfinal-monadstacks-articles"></a>
+<a name="freemonad-articles"></a>
 ### Articles
 
 <a name="typeclass"></a>
@@ -261,7 +271,7 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali](https://www.youtube.com/watch?v=XZ9nPZbaYfE)
     - Recursion schemes
 
-- [ ] [THOSE 10000 CLASSES I NEVER WROTE - Valentin Kasas](https://www.youtube.com/watch?v=1TUgSaD6cCo)
+- [ ] [Those 10000 classes I never wrote - Valentin Kasas](https://www.youtube.com/watch?v=1TUgSaD6cCo)
 
 - [ ] [Going bananas with recursion schemes for fixed point data types - Paweł Szulc](https://www.youtube.com/watch?v=IlvJnkWH6CA)
 
@@ -427,6 +437,8 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus)
 
+- [ ] [Data61 Haskell functional programming course](https://github.com/data61/fp-course)
+
 ## Blogs
 
 - [ ] [Typelevel](https://typelevel.org/blog/)
@@ -487,13 +499,16 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [Awesome Scala](https://scala.libhunt.com/newsletter)
 
-
 <a name="podcasts"></a>
 ## Podcasts
 
 - [Functional Geekery](https://www.functionalgeekery.com/)
 
-- [Co-recursive](https://corecursive.com/category/podcast/) (never tried yet)
+- [Co-recursive](https://corecursive.com/category/podcast/)
+
+- [Scala Love](https://scala.love/)
+
+- [Lambda Cast](https://soundcloud.com/lambda-cast)
 
 - [FP podcast list](https://www.fpcasts.com/)
 

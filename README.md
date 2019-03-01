@@ -1,6 +1,6 @@
 # Curated list of great Scala oriented (but not always) Functional Programming resources
 
-## Your personal reading list
+## Your personal material list
 
 If you wish to track your progress in the reading list, follow these steps:
 
@@ -31,20 +31,49 @@ If you wish to track your progress in the reading list, follow these steps:
 
 ## Categories
 
-* [Talks](#talks)
-    * [FP in general](#fp-in-general)
-    * [Types](#types)
-    * [Effects](#effects)
-    * [State](#state)
-    * [Semigroup / Monoid](#semigroup-monoid)
-    * [Free monad / Tagless Final and monad stacks](#freemonad-taglessfinal-monadstacks)
-    * [Typeclass](#typeclass)
-    * [Concurrency](#concurrency)
-    * [Optics](#optics)
-    * [Recursion Schemes](#recursion-schemes)
-    * [Theory](#theory)
+* [FP in general](#fp-in-general)
+    * [Talks](#fp-in-general-talks)
+    * [Articles](#fp-in-general-articles)
+    
+* [Types](#types)
+    * [Talks](#ftypes-talks)
+    * [Articles](#types-articles)
 
-* [Articles](#articles)
+* [Effects](#effects)
+    * [Talks](#effects-talks)
+    * [Articles](#effects-articles)
+
+* [State](#state)
+    * [Talks](#state-talks)
+    * [Articles](#state-articles)
+
+* [Semigroup / Monoid](#semigroup-monoid)
+    * [Talks](#semigroup-monoid-talks)
+    * [Articles](#semigroup-monoid-articles)
+
+* [Free monad / Tagless Final and monad stacks](#freemonad-taglessfinal-monadstacks)
+    * [Talks](#freemonad-taglessfinal-monadstacks-talks)
+    * [Articles](#freemonad-taglessfinal-monadstacks-articles)
+
+* [Typeclass](#typeclass)
+    * [Talks](#typeclass-talks)
+    * [Articles](#typeclass-articles)
+
+* [Concurrency](#concurrency)
+    * [Talks](#concurrency-talks)
+    * [Articles](#concurrency-articles)
+
+* [Optics](#optics)
+    * [Talks](#optics-talks)
+    * [Articles](#optics-articles)
+
+* [Recursion Schemes](#recursion-schemes)
+    * [Talks](#recursion-schemes-talks)
+    * [Articles](#recursion-schemes-articles)
+
+* [Theory](#theory)
+    * [Talks](#theory-talks)
+    * [Articles](#theory-articles)
 
 * [Academic papers](#academic-papers)
 
@@ -60,11 +89,11 @@ If you wish to track your progress in the reading list, follow these steps:
 
 * [Repositories](#repositories)
 
-<a name="talks"></a>
-## Talks
-
 <a name="fp-in-general"></a>
-### FP in general
+## FP in general
+
+<a name="fp-in-general-talks"></a>
+### Talks
 
 - [ ] [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
   - Trampolining, Higher Kinded Types, Benefits of FP
@@ -85,16 +114,28 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
     - FP design
+
+<a name="fp-in-general-articles"></a>
+### Articles
     
 <a name="types"></a>
-### Types
+## Types
+
+<a name="types-talks"></a>
+### Talks
 
 - [ ] [Why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak)
 
 - [ ] [Type Members vs Type Parameters](https://www.youtube.com/watch?v=R8GksuRw3VI)
 
+<a name="fp-in-general-articles"></a>
+### Articles
+
 <a name="effects"></a>
-### Effects
+## Effects
+
+<a name="effects-talks"></a>
+### Talks
 
 - [ ] [The Death of Final Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters)
     - Effect, tagless final alternative
@@ -111,14 +152,26 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
     - Stream, IO
 
+<a name="effects-articles"></a>
+### Articles
+
 <a name="state"></a>
-### State
+## State
+
+<a name="state-talks"></a>
+### Talks
 
 - [ ] [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     - State, StateT, IndexedState
 
+<a name="state-articles"></a>
+### Articles    
+
 <a name="freemonad-taglessfinal-monadstacks"></a>
-### Free Monad / Tagless Final and monad stacks
+## Free Monad / Tagless Final and monad stacks
+
+<a name="freemonad-taglessfinal-monadstacks-talks"></a>
+### Talks
 
 - [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
     - Free monads, Tagless final
@@ -153,8 +206,14 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
     - Free monad
 
+<a name="freemonad-taglessfinal-monadstacks-articles"></a>
+### Articles
+
 <a name="typeclass"></a>
-### Typeclass
+## Typeclass
+
+<a name="typeclass-talks"></a>
+### Talks
 
 - [ ] [Mastering Typeclass Induction — Aaron Levin](https://www.youtube.com/watch?v=Nm4OIhjjA2o)
     - Typeclasses
@@ -164,19 +223,37 @@ If you wish to track your progress in the reading list, follow these steps:
     
 - [ ] [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)    
 
+<a name="typeclass-articles"></a>
+### Articles
+
 <a name="concurrency"></a>
-### Concurrency
+## Concurrency
+
+<a name="concurrency-talks"></a>
+### Talks
 
 - [ ] [Concurrency with Cats-effect - Michael Pilquist](https://www.youtube.com/watch?v=Gig-f_HXvLI)
 
+<a name="concurrency-articles"></a>
+### Articles
+
 <a name="optics"></a>
-### Optics
+## Optics
+
+<a name="optics-talks"></a>
+### Talks
 
 - [ ] [Beyond Scala Lenses — Julien Truffaut](https://www.youtube.com/watch?v=6nyGVgGEKdA)
     - Optics
 
+<a name="optics-articles"></a>
+### Articles 
+
 <a name="recursion-schemes"></a>
-### Recursion schemes
+## Recursion schemes
+
+<a name="recursion-schemes-talks"></a>
+### Talks
 
 - [Pure Functional Database Programming with Fixpoint Types — Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
     - Fixpoint, Recursion schemes
@@ -188,9 +265,14 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Going bananas with recursion schemes for fixed point data types - Paweł Szulc](https://www.youtube.com/watch?v=IlvJnkWH6CA)
 
+<a name="recursion-schemes-articles"></a>
+### Articles
 
 <a name="theory"></a>
-### Theory
+## Theory
+
+<a name="theory-talks"></a>
+### Talks
 
 - [ ] [Crash course into category theory - Rúnar Bjarnason](https://www.youtube.com/watch?time_continue=2&v=ml5rU06z0Fk)
 
@@ -208,6 +290,9 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Why a monad is a monoid in the category of endofunctors](https://www.youtube.com/watch?v=pvTycwaAmLo)
 
 - [ ] [A History of Computation, Logic and Algebra](https://www.youtube.com/watch?v=c_nPnURW6BU)
+
+<a name="theory-articles"></a>
+### Articles
 
 <a name="articles"></a>
 ## Articles

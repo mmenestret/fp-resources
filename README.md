@@ -365,8 +365,6 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Scala best practices](https://nrinaudo.github.io/scala-best-practices/index.html)
 
-- [ ] [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
-
 - [ ] [Category theory and programming](http://yogsototh.github.io/Category-Theory-Presentation/categories.html)
 
 - [ ] [Structuring Functional Programs with Tagless Final](https://www.becompany.ch/en/blog/2018/06/21/tagless-final)

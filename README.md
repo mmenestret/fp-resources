@@ -26,45 +26,66 @@ If you wish to track your progress in the reading list, follow these steps:
 `git pull mmenestret`
 
 `git push`
-
 </details>
 
 ## Categories
 
-* [Talks](#talks)
-    * [FP in general](#fp-in-general)
-    * [Types](#types)
-    * [Effects](#effects)
-    * [State](#state)
-    * [Semigroup / Monoid](#semigroup-monoid)
-    * [Free monad / Tagless Final and monad stacks](#freemonad-taglessfinal-monadstacks)
-    * [Typeclass](#typeclass)
-    * [Concurrency](#concurrency)
-    * [Optics](#optics)
-    * [Recursion Schemes](#recursion-schemes)
-    * [Theory](#theory)
+- [FP in general](#fp-in-general)
+    - [Talks](#talks-fp-in-general)
+    - [Articles](#articles-fp-in-general)
+- [Types](#types)
+    - [Talks](#talks-types)
+    - [Articles](#articles-types)
+- [Effects](#effects)
+    - [Talks](#talks-effects)
+    - [Articles](#articles-effects)
+- [State](#state)
+    - [Talks](#talks-state)
+    - [Articles](#articles-state)
+- [Semigroup / Monoid](#semigroup-monoid)
+    - [Talks](#talks-semigroup-monoid)
+    - [Articles](#articles-semigroup-monoid)
+- [Free monad / Tagless Final and monad stacks](#freemonad-taglessfinal-monadstacks)
+    - [Talks](#talks-freemonad-taglessfinal-monadstacks)
+    - [Articles](#articles-freemonad-taglessfinal-monadstacks)
+- [Typeclass](#typeclass)
+    - [Talks](#talks-typeclass)
+    - [Articles](#articles-typeclass)
+- [Concurrency](#concurrency)
+    - [Talks](#talks-concurrency)
+    - [Articles](#articles-concurrency)
+- [Optics](#optics)
+    - [Talks](#talks-optics)
+    - [Articles](#articles-optics)
+- [Recursion Schemes](#recursion-schemes)
+    - [Talks](#talks-recursion-schemes)
+    - [Articles](#articles-recursion-schemes)
+- [Theory](#theory)
+    - [Talks](#talks-theory)
+    - [Articles](#articles-theory)
+- [Code Pattern](#code-pattern)
+    - [Talks](#talks-code-pattern)
+    - [Articles](#articles-code-pattern)
 
-* [Articles](#articles)
+- [Academic papers](#academic-papers)
 
-* [Academic papers](#academic-papers)
+- [Blogs](#blogs)
 
-* [Blogs](#blogs)
+- [Books](#books)
 
-* [Books](#books)
+- [Chat rooms](#chat-rooms)
 
-* [Chat rooms](#chat-rooms)
+- [Newsletters](#newsletters)
 
-* [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
 
-* [Podcasts](#podcasts)
-
-* [Repositories](#repositories)
-
-<a name="talks"></a>
-## Talks
+- [Repositories](#repositories)
 
 <a name="fp-in-general"></a>
-### FP in general
+## FP in general
+
+<a name="talks-fp-in-general"></a>
+### Talks
 
 - [ ] [Functional Programming is Terrible - Rúnar Bjarnason](https://www.youtube.com/watch?v=hzf3hTUKk8U)
   - Trampolining, Higher Kinded Types, Benefits of FP
@@ -85,22 +106,37 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
     - FP design
-    
+
+<a name="articles-fp-in-general"></a>
+### Articles
+
+TODO
+
 <a name="types"></a>
-### Types
+## Types
+
+<a name="talks-types"></a>
+### Talks
 
 - [ ] [Why do Functional Programmers always talk about Algebra(s)?](https://www.youtube.com/watch?v=s2ay9nEW3ak)
 
 - [ ] [Type Members vs Type Parameters](https://www.youtube.com/watch?v=R8GksuRw3VI)
 
+<a name="articles-types"></a>
+### Articles
+
+TODO
+
 <a name="effects"></a>
-### Effects
+## Effects
+
+<a name="talks-effects"></a>
+### Talks
 
 - [ ] [The Death of Final Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters)
     - Effect, tagless final alternative
 
 - [ ] [Functional Programming with Effects - Rob Norris](https://www.youtube.com/watch?v=po3wmq4S15A)
-    - Effects
 
 - [ ] [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
     - IO
@@ -111,14 +147,30 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Declarative Control Flow with fs2 Stream – Fabio Labella](https://www.youtube.com/watch?v=YSN__0VEsaw)
     - Stream, IO
 
+<a name="articles-effects"></a>
+### Articles
+
+TODO
+
 <a name="state"></a>
-### State
+## State
+
+<a name="talks-state"></a>
+### Talks
 
 - [ ] [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     - State, StateT, IndexedState
 
+<a name="articles-state"></a>
+### Articles
+
+TODO
+
 <a name="freemonad-taglessfinal-monadstacks"></a>
-### Free Monad / Tagless Final and monad stacks
+## Free Monad / Tagless Final and monad stacks
+
+<a name="talks-freemonad-taglessfinal-monadstacks"></a>
+### Talks
 
 - [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
     - Free monads, Tagless final
@@ -153,8 +205,16 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
     - Free monad
 
+<a name="articles-freemonad-taglessfinal-monadstacks"></a>
+### Articles
+
+TODO
+
 <a name="typeclass"></a>
-### Typeclass
+## Typeclass
+
+<a name="talks-typeclass"></a>
+### Talks
 
 - [ ] [Mastering Typeclass Induction — Aaron Levin](https://www.youtube.com/watch?v=Nm4OIhjjA2o)
     - Typeclasses
@@ -164,19 +224,42 @@ If you wish to track your progress in the reading list, follow these steps:
     
 - [ ] [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)    
 
+<a name="articles-typeclasses"></a>
+### Articles
+
+TODO
+
 <a name="concurrency"></a>
-### Concurrency
+## Concurrency
+
+<a name="talks-concurrency"></a>
+### Talks
 
 - [ ] [Concurrency with Cats-effect - Michael Pilquist](https://www.youtube.com/watch?v=Gig-f_HXvLI)
 
+<a name="articles-concurrency"></a>
+### Articles
+
+TODO
+
 <a name="optics"></a>
-### Optics
+## Optics
+
+<a name="talks-optics"></a>
+### Talks
 
 - [ ] [Beyond Scala Lenses — Julien Truffaut](https://www.youtube.com/watch?v=6nyGVgGEKdA)
-    - Optics
+
+<a name="articles-optics"></a>
+### Articles
+
+TODO
 
 <a name="recursion-schemes"></a>
-### Recursion schemes
+## Recursion schemes
+
+<a name="talks-recursion-schemes"></a>
+### Talks
 
 - [Pure Functional Database Programming with Fixpoint Types — Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
     - Fixpoint, Recursion schemes
@@ -188,9 +271,16 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Going bananas with recursion schemes for fixed point data types - Paweł Szulc](https://www.youtube.com/watch?v=IlvJnkWH6CA)
 
+<a name="articles-recursion-schemes"></a>
+### Articles
+
+TODO
 
 <a name="theory"></a>
-### Theory
+## Theory
+
+<a name="talks-theory"></a>
+### Talks
 
 - [ ] [Crash course into category theory - Rúnar Bjarnason](https://www.youtube.com/watch?time_continue=2&v=ml5rU06z0Fk)
 
@@ -208,6 +298,30 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Why a monad is a monoid in the category of endofunctors](https://www.youtube.com/watch?v=pvTycwaAmLo)
 
 - [ ] [A History of Computation, Logic and Algebra](https://www.youtube.com/watch?v=c_nPnURW6BU)
+
+<a name="articles-theory"></a>
+### Articles
+
+TODO
+
+<a name="code-pattern"></a>
+## FP code pattern
+
+<a name="talks-code-pattern"></a>
+### Talks
+
+- [ ] [Handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) (Haskell)
+
+- [ ] [ReaderT pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
+
+- [ ] [RIO Monad](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
+
+- [ ] [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
+
+<a name="articles-code-pattern"></a>
+### Articles
+
+TODO
 
 <a name="articles"></a>
 ## Articles
@@ -308,17 +422,6 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Blog: reasonably polymorphic](http://reasonablypolymorphic.com/)
 
-
-### FP code pattern
-
-- [ ] [Handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) (Haskell)
-
-- [ ] [ReaderT pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
-
-- [ ] [RIO Monad](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
-
-- [ ] [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
-
 <a name="academic-papers"></a>
 ## Academic papers
 
@@ -344,26 +447,26 @@ If you wish to track your progress in the reading list, follow these steps:
 
 ## Blogs
 
-- [ ] [Typelevel](https://typelevel.org/blog/)
+- [Typelevel](https://typelevel.org/blog/)
 
-- [ ] [SoftwareMill](https://softwaremill.com/blog/)
+- [SoftwareMill](https://softwaremill.com/blog/)
 
-- [ ] [J. De Goes](http://degoes.net/)
+- [J. De Goes](http://degoes.net/)
 
-- [ ] [Runar](http://blog.higher-order.com/)
+- [Runar](http://blog.higher-order.com/)
 
-- [ ] [Habla](https://blog.hablapps.com/)
+- [Habla](https://blog.hablapps.com/)
 
-- [ ] [Li Haoyi](http://www.lihaoyi.com/)
+- [Li Haoyi](http://www.lihaoyi.com/)
 
-- [ ] [Kubuszok](https://kubuszok.com/#blog)
+- [Kubuszok](https://kubuszok.com/#blog)
 
-- [ ] [FP Complete](https://www.fpcomplete.com/blog)
+- [FP Complete](https://www.fpcomplete.com/blog)
     - Haskell
     
-- [ ] [Yann Esposito](http://yannesposito.com/Scratch/en/blog/)
+- [Yann Esposito](http://yannesposito.com/Scratch/en/blog/)
  
-- [ ] [Mine ! :D](https://github.com/mmenestret/fp-ressources/)
+- [Mine ! :D](https://github.com/mmenestret/fp-ressources/)
 
 
 <a name="books"></a>
@@ -383,7 +486,6 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)
 
-
 <a name="chat-rooms"></a>
 ## Chat rooms
 
@@ -401,7 +503,6 @@ If you wish to track your progress in the reading list, follow these steps:
 - [Scalatimes](https://scalatimes.com/)
 
 - [Awesome Scala](https://scala.libhunt.com/newsletter)
-
 
 <a name="podcasts"></a>
 ## Podcasts

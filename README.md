@@ -192,6 +192,9 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
     * _Functiona Effects, Tagless Final, ReaderT_
 
+* [ ] [Effekt: Extensible Algebraic Effects in Scala](https://conf.researchr.org/event/scala-2017/scala-2017-papers-effekt-extensible-algebraic-effects-in-scala-short-paper-)
+    * _Algebraic effects, Scala library Effekt_
+
 <a name="semigroup-monoid"></a>
 ## Semigroup / Monoid
 
@@ -321,6 +324,9 @@ If you wish to track your progress in the material list, follow these steps:
 
 * [ ] [A tale of two Monads: Free vs MTL](http://tech.frontrowed.com/2017/09/28/benching-free/)
     * _Free Monad vs MTL style_
+
+* [ ] [A tale of two Monads: Free vs MTL](https://tech.freckle.com/2017/09/28/benching-free/)
+    * _ Journey through Free and MTL style
 
 <a name="typeclass"></a>
 ## Typeclass
@@ -494,6 +500,9 @@ If you wish to track your progress in the material list, follow these steps:
 
 * [ ] [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
     * _High-Order Functions (HOFs) and Lazy Evaluation_
+
+* [ ] [Algebraic effects for Functional Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf)
+    * _Algebraic Effects, Type Inference, compilation scheme
 
 <a name="lectures"></a>
 ## Letures

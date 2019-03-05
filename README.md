@@ -42,9 +42,15 @@ If you wish to track your progress in the material list, follow these steps:
 * [Semigroup / Monoid](#semigroup-monoid)
     * [Talks](#talks-semigroup-monoid)
     * [Articles](#articles-semigroup-monoid)
-* [Free monad / Tagless Final and monad stacks](#freemonad-taglessfinal-monadstacks)
-    * [Talks](#talks-freemonad-taglessfinal-monadstacks)
-    * [Articles](#articles-freemonad-taglessfinal-monadstacks)
+* [Tagless Final / MTL](#taglessfinal-mtl)
+    * [Talks](#talks-taglessfinal-mtl)
+    * [Articles](#articles-taglessfinal-mtl)
+* [Monad stack](#monad-stack)
+    * [Talks](#talks-monad-stack)
+    * [Articles](#articles-monad-stack)
+* [Free Monad](#free-monad)
+    * [Talks](#talks-free-monad)
+    * [Articles](#articles-free-monad)
 * [Typeclass](#typeclass)
     * [Talks](#talks-typeclass)
     * [Articles](#articles-typeclass)
@@ -202,60 +208,38 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [Anatomy of semigroups and monoids](http://geekocephale.com/blog/2018/11/06/semi-monoid)
     * _Semigroups and Monoids_
 
-<a name="freemonad-taglessfinal-monadstacks"></a>
-## Free Monad / Tagless Final and monad stacks
+<a name="taglessfinal-mtl"></a>
+## Tagless Final / MTL
 
-<a name="talks-freemonad-taglessfinal-monadstacks"></a>
+<a name="talks-taglessfinal-mtl"></a>
 ### Talks
-
-* [ ] [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
-    * _Free Applicatives_
-
-* [ ] [Monad transformers down to earth - Gabriele Petronella](https://www.youtube.com/watch?v=jd5e71nFEZM)
-    * _Monad Transformer_
-
-* [ ] [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
-    * _Free Monad_
-
-* [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
-    * _Live coding session on Free monads and Tagless Final_
 
 * [ ] [Advanced Tagless Final - Saying farewell to Free - Luka Jacobowitz](https://www.youtube.com/watch?v=E9iRYNuTIYA)
     * _Free Monad, Tagless Final_
 
-* [ ] [Free as in Monads by Daniel Spiewak](https://www.youtube.com/watch?v=aKUQUIHRGec)
-    * _Live coding session on Free Monad_
+* [ ] [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
+    * _MTL, Tagless Final, BIO_
+
+* [ ] [Getting more mileage from your monads and MTL - Paweł Szulc](https://www.youtube.com/watch?v=knK70T4X7YE)
+    * _MTL style_
+
+* [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+    * _Live coding session on Free monads and Tagless Final_
 
 * [ ] [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
     * _Free and Tagless in a real application_
 
-* [ ] [The Eff monad, one monad to rule them all - Eric Torreborre](https://www.youtube.com/watch?v=KGJLeHhsZBo)
-    * _Eff monad_
-
-* [ ] [Monad Stacks or: How I Learned to Stop Worrying and Love the Free Monad – Harry Laoulakos](https://www.youtube.com/watch?v=2TDDDFGa8-0)
-    * _Monad Stacks_
-
-* [ ] [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
-    * _MTL, Tagless Final, BIO_
-
-* [ ] [GETTING MORE MILEAGE FROM YOUR MONADS WITH MTL - Paweł Szulc](https://www.youtube.com/watch?v=knK70T4X7YE)
-    * _MTL style_
-
-
-<a name="articles-freemonad-taglessfinal-monadstacks"></a>
+<a name="articles-taglessfinal-mtl"></a>
 ### Articles
 
 * [ ] [Introduction to Tagless final](https://www.beyondthelines.net/programming/introduction-to-tagless-final/)
     * _Tagless Final_
-
-* [ ] [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/)
-    * _Free Monad and Tagless Final_
-
 * [ ] [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
     * _Tagless Final_
 
 * [ ] [Gist about Fabio Labella's on inital vs final tagless encodings](https://gist.github.com/mmenestret/0b746cfd650796a639723ee74a3de302)
     * _Tagless Final_
+    
 * [ ] [Testing tagless final with Discipline](https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/)
     * _Tagless Final with the Typelevel library Discipline_
 
@@ -271,11 +255,30 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [From Object Algebras to Finally Tagless Interpreters](https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/) [**Haskell**]
     * _Tagless Final_
 
-* [ ] [Free Monoids and Free Monads](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
-    * _Free structure with Monoids and Monads_
-
 * [ ] [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
     * _MTL style_
+* [ ] [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
+    * _MTL style_
+* [ ] [Typed tagless-final interpretations](http://okmij.org/ftp/tagless-final/course/index.html) [**Haskell**]
+    * _Typed Tagless Final embeddings of Domain-Specific Languages (DSLs)_
+
+<a name="monad-stack"></a>
+## Monad stack
+
+<a name="talks-monad-stack"></a>
+### Talks
+
+* [ ] [Monad transformers down to earth - Gabriele Petronella](https://www.youtube.com/watch?v=jd5e71nFEZM)
+    * _Monad Transformer_
+
+* [ ] [The Eff monad, one monad to rule them all - Eric Torreborre](https://www.youtube.com/watch?v=KGJLeHhsZBo)
+    * _Eff monad_
+
+* [ ] [Monad Stacks or: How I Learned to Stop Worrying and Love the Free Monad – Harry Laoulakos](https://www.youtube.com/watch?v=2TDDDFGa8-0)
+    * _Monad Stacks_
+
+<a name="articles-monad-stack"></a>
+### Articles
 
 * [ ] [Monad transformer variance](https://typelevel.org/blog/2018/09/29/monad-transformer-variance.html)
     * _Monad Transformer_
@@ -286,14 +289,38 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [EDSLs as functions](https://typelevel.org/blog/2016/10/26/edsls-part-2.html)
     * _(EDSLs) Embedded domain specific languages_
 
-* [ ] [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
-    * _MTL style_
+<a name="free-monad"></a>
+## Free Monad
+
+<a name="talks-free-monad"></a>
+### Talks
+
+* [ ] [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+    * _Live coding session on Free monads and Tagless Final_
+
+* [ ] [Freestyle, Free & Tagless: Separation of Concerns on Steroids - Michał Płachta](https://www.youtube.com/watch?v=-4lB5EKS5Uk)
+    * _Free and Tagless in a real application_
+
+* [ ] [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
+    * _Free Applicatives_
+
+* [ ] [A Year living Freely – Chris Myers](https://www.youtube.com/watch?v=rK53C-xyPWw)
+    * _Free Monad_
+
+* [ ] [Free as in Monads by Daniel Spiewak](https://www.youtube.com/watch?v=aKUQUIHRGec)
+    * _Live coding session on Free Monad_
+
+<a name="articles-free-monad"></a>
+### Articles
+
+* [ ] [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/)
+    * _Free Monad and Tagless Final_
+
+* [ ] [Free Monoids and Free Monads](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
+    * _Free structure with Monoids and Monads_
 
 * [ ] [A tale of two Monads: Free vs MTL](http://tech.frontrowed.com/2017/09/28/benching-free/)
     * _Free Monad vs MTL style_
-
-* [ ] [Typed tagless-final interpretations](http://okmij.org/ftp/tagless-final/course/index.html) [**Haskell**]
-    * _Typed Tagless Final embeddings of Domain-Specific Languages (DSLs)_
 
 <a name="typeclass"></a>
 ## Typeclass

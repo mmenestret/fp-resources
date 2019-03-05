@@ -337,7 +337,7 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)
     * _Parametric and ad hoc polymorphism, Typeclasses_    
 
-<a name="articles-typeclasses"></a>
+<a name="articles-typeclass"></a>
 ### Articles
 
 * [ ] [Anatomy of a type class](http://geekocephale.com/blog/2018/10/05/typeclasses)

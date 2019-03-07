@@ -126,6 +126,9 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
     * _Algebraic Data Type (ADT)_
 
+* [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
+    * _FP design, tagless final, performance_
+
 <a name="types"></a>
 ## Types
 

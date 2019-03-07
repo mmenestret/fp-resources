@@ -86,6 +86,9 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
     - FP design
     
+- [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
+    - FP design, tagless final, performance
+    
 <a name="types"></a>
 ### Types
 

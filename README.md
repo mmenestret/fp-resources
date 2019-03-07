@@ -116,7 +116,7 @@ If you wish to track your progress in the material list, follow these steps:
 
 * [ ] [Scala best practices](https://nrinaudo.github.io/scala-best-practices/index.html)
     * _List of good practice in Scala_
-    
+
 * [ ] [Trampolining and stack safety in Scala](https://medium.com/@olxc/trampolining-and-stack-safety-in-scala-d8e86474ddfa)
     * _Trampolining, tail call elimination_
 
@@ -128,6 +128,9 @@ If you wish to track your progress in the material list, follow these steps:
 
 * [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
     * _FP design, tagless final, performance_
+
+- [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
+    - FP design, tagless final, performance
 
 <a name="types"></a>
 ## Types

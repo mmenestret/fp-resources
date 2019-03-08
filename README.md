@@ -126,11 +126,11 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
     * _Algebraic Data Type (ADT)_
 
-* [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
+* [ ] [M²](https://www.youtube.com/watch?v=xAhrgxUeOvY)
     * _FP design, tagless final, performance_
 
-- [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
-    - FP design, tagless final, performance
+* [ ] [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
+    * _FP design, tagless final, performance_
 
 <a name="types"></a>
 ## Types
@@ -325,6 +325,8 @@ If you wish to track your progress in the material list, follow these steps:
 * [ ] [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/)
     * _Free Monad and Tagless Final_
 
+- [ ] [Algebraic API Design - Types, Functions, Properties](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
+
 * [ ] [Free Monoids and Free Monads](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
     * _Free structure with Monoids and Monads_
 
@@ -368,6 +370,9 @@ If you wish to track your progress in the material list, follow these steps:
     * _Parametric Polymorphism (generics) and Typeclasses_
 
 * [ ] [Typeclass counterexample](https://blog.functorial.com/posts/2015-12-06-Counterexamples.html) [**Haskell**]
+    * _Typeclasses_
+
+* [ ] [OOP vs. FP. The pursuit of extensibility](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)
     * _Typeclasses_
 
 <a name="concurrency"></a>

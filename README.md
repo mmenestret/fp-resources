@@ -266,10 +266,12 @@ If you wish to track your progress in the material list, follow these steps:
 
 * [ ] [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
     * _MTL style_
-* [ ] [Intro to MTL](https://typelevel.org/blog/2018/10/06/intro-to-mtl.html)
-    * _MTL style_
+
 * [ ] [Typed tagless-final interpretations](http://okmij.org/ftp/tagless-final/course/index.html) [**Haskell**]
     * _Typed Tagless Final embeddings of Domain-Specific Languages (DSLs)_
+    
+* [ ] [Finally Tagless - Not Quite Dead Yet](https://github.com/ncreep/bloggable-thoughts/tree/master/finally-tagless-not-quite-dead)
+    * _Tagless Final, code examples_
 
 <a name="monad-stack"></a>
 ## Monad stack
@@ -324,8 +326,6 @@ If you wish to track your progress in the material list, follow these steps:
 
 * [ ] [Free and tagless compared - how not to commit to a monad too early](https://softwaremill.com/free-tagless-compared-how-not-to-commit-to-monad-too-early/)
     * _Free Monad and Tagless Final_
-
-- [ ] [Algebraic API Design - Types, Functions, Properties](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
 
 * [ ] [Free Monoids and Free Monads](http://blog.higher-order.com/blog/2013/08/20/free-monads-and-free-monoids/)
     * _Free structure with Monoids and Monads_

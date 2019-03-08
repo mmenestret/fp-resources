@@ -264,7 +264,7 @@
     * _Free Monad vs MTL style_
 
 * [A tale of two Monads: Free vs MTL](https://tech.freckle.com/2017/09/28/benching-free/)
-    * _ Journey through Free and MTL style
+    * _Journey through Free and MTL style
 
 <a name="typeclass"></a>
 ## Typeclass

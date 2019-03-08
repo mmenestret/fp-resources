@@ -4,7 +4,7 @@
 
 * [Functional programming patterns](#fp-patterns)
 * [Types](#types)
-* [Effects](#effects)
+* [Functional Effects](#effects)
 * [Semigroup / Monoid](#semigroup-monoid)
 * [Tagless Final / MTL](#taglessfinal-mtl)
 * [Monad stack](#monad-stack)
@@ -13,7 +13,6 @@
 * [Concurrency](#concurrency)
 * [Optics](#optics)
 * [Recursion Schemes](#recursion-schemes)
-* [Code Pattern](#code-pattern)
 * [Theory](#theory)
 * [Academic papers](#academic-papers)
 * [Lectures](#lectures)
@@ -70,9 +69,6 @@
 * [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
     * _Algebraic Data Type (ADT)_
 
-* [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
-    * _FP design, tagless final, performance_
-
 <a name="types"></a>
 ## Types
 
@@ -108,7 +104,7 @@
     * _Algebraic Data Types (ADTs)_
 
 <a name="effects"></a>
-## Effects
+## Functional Effects
 
 ### Talks
 
@@ -129,6 +125,9 @@
 
 * [Regaining Control with State Monad and Friends](https://www.youtube.com/watch?v=Pgo73GfHk0U)
     * _State, StateT, IndexedState_
+    
+* [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
+    * _FP design, tagless final, performance_    
 
 ### Articles
 
@@ -137,6 +136,12 @@
 
 * [Effekt: Extensible Algebraic Effects in Scala](https://conf.researchr.org/event/scala-2017/scala-2017-papers-effekt-extensible-algebraic-effects-in-scala-short-paper-)
     * _Algebraic effects, Scala library Effekt_
+
+* [Handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) [**Haskell**]
+    * _Modularize Effectful layer of medium to large scaled Haskell applications_
+
+* [ReaderT pattern: RIO](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) [**Haskell**]
+    * _Better globals with ReaderT_
 
 <a name="semigroup-monoid"></a>
 ## Semigroup / Monoid
@@ -348,21 +353,6 @@
 
 * [Recursion training](https://github.com/softwaremill/recursion-training#sources-and-resources)
     * _Resources and examples on Recursion Schemes_
-
-<a name="code-pattern"></a>
-## Code pattern
-
-### Talks
-
-
-
-### Articles
-
-* [Handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) [**Haskell**]
-    * _Modularize Effectful layer of medium to large scaled Haskell applications_
-
-* [ReaderT pattern: RIO](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) [**Haskell**]
-    * _Better globals with ReaderT_
 
 <a name="theory"></a>
 ## Theory

@@ -215,7 +215,9 @@ If you wish to track your progress in the reading list, follow these steps:
 <a name="articles"></a>
 ## Articles
 
-- [ ] [https://typelevel.org/blog/2019/02/06/algebraic-api-design.html](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
+- [ ][OOP vs. FP. The pursuit of extensibility](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)
+
+- [ ] [Algebraic API Design - Types, Functions, Properties](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
 
 - [ ] [Anatomy of functors and category theory](http://geekocephale.com/blog/2019/02/16/functors-cat-theory)
 

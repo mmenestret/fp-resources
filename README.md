@@ -64,7 +64,7 @@
 * [Trampolining and stack safety in Scala](https://medium.com/@olxc/trampolining-and-stack-safety-in-scala-d8e86474ddfa)
     * _Trampolining, tail call elimination_
 
-* [https://typelevel.org/blog/2019/02/06/algebraic-api-design.html](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
+* [Algebraic API Design - Types, Functions, Properties](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
     * _Types, Functions, Properties_
 
 * [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)

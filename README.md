@@ -85,21 +85,19 @@ If you wish to track your progress in the reading list, follow these steps:
   - Trampolining, Higher Kinded Types, Benefits of FP
 
 - [ ] [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
-    - Functional design patterns
 
 - [ ] [Functional Patterns in Domain Modeling — Debasish Ghosh](https://www.youtube.com/watch?v=U0Rk9Knq8Vk)
-    - Functional domain modeling
 
 - [ ] [FP to the Max - John De Goes](https://www.youtube.com/watch?v=sxudIMiOo68)
-    - FP design
+    - FP design / final tagless
 
 - [ ] [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
-    - FP design
+    - FP principles
     
 - [ ] [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)    
 
 - [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
-    - FP design
+    - FP good practices
 
 <a name="fp-patterns-articles"></a>
 ### Articles
@@ -124,7 +122,7 @@ If you wish to track your progress in the reading list, follow these steps:
 ### Talks
 
 - [ ] [The Death of Final Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters)
-    - Effect, tagless final alternative
+    - Effects, tagless final alternative
 
 - [ ] [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
     - IO

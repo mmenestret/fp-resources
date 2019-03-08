@@ -1,4 +1,4 @@
-# Curated list of great Scala oriented (but not always) Functional Programming resources
+# Curated list of great functional programming resources (mainly Scala or Haskell based)
 
 ## Categories
 
@@ -528,3 +528,7 @@
 
 * [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
     * *Patterns from math (Category theory, Abstract algebra) in Scala*
+    
+## Special thanks
+
+Thanks to [@olivierschultz](https://twitter.com/OlivierSchultz) who helps me maintain that list ! 

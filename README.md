@@ -1,4 +1,5 @@
 # Curated list of great functional programming resources (mainly Scala or Haskell based)
+![functional programming path](https://cdn-images-1.medium.com/max/800/1*AM83LP9sGGjIul3c5hIsWg.png)
 
 ## Categories
 

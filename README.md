@@ -50,6 +50,9 @@
 * [Functional Patterns in Domain Modeling — Debasish Ghosh](https://www.youtube.com/watch?v=U0Rk9Knq8Vk)
     * _Functional domain modeling_
 
+* [Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
+    * _Live-refactor concurrent imperative program with ZIO_
+
 ### Articles
 
 * [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
@@ -143,6 +146,9 @@
 
 * [ReaderT pattern: RIO](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) [**Haskell**]
     * _Better globals with ReaderT_
+
+* [Why Functional Programming? It's the composition](https://tech.iheart.com/why-fp-its-the-composition-f585d17b01d3)
+    * _Compositions, Effects, Functor, Monad, Category Theory_
 
 <a name="semigroup-monoid"></a>
 ## Semigroup / Monoid
@@ -480,6 +486,8 @@
     * [Scala](https://github.com/typelevel/CT_from_Programmers.scala)
 
 * [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)
+
+* [The Books of Monads](https://www.goodreads.com/book/show/42449863-the-book-of-monads) [**Scala**] [**Haskell**]
 
 <a name="chat-rooms"></a>
 ## Chat rooms

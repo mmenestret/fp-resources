@@ -435,7 +435,7 @@
     * _Algebraic Effects, Type Inference, compilation scheme
 
 <a name="lectures"></a>
-## Letures
+## Lectures
 
 * [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus) [**Haskell**]
     * _Haskell Course_

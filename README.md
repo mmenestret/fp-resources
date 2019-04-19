@@ -119,7 +119,7 @@
     * _Functional Effects, Tagless Final alternative with ZIO_
 
 * [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
-    * _IO Monad with Cats Effects_
+    * _IO Monad with Cats Effect_
     
 * [http4s: pure, typeful, functional HTTP in Scala – Ross Baker](https://www.youtube.com/watch?time_continue=1915&v=urdtmx4h5LE)
     * _IO, HTTP4s, Kleisli_
@@ -131,7 +131,10 @@
     * _State, StateT, IndexedState_
     
 * [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
-    * _FP design, tagless final, performance_    
+    * _FP design, tagless final, performance_  
+
+* [Gabriel Volpe - Cats Effect: The IO Monad for Scala](https://www.youtube.com/watch?v=8_TWM2t97r4&t=18s)
+    * _ Cats Effect, error handling, safe resource management, concurrency, parallelism_
 
 ### Articles
 
@@ -322,6 +325,9 @@
 
 * [Concurrency with Cats-effect - Michael Pilquist](https://www.youtube.com/watch?v=Gig-f_HXvLI)
     * _fiber, Cats Effects, fs2_
+
+* [ATOMICALLY { DELETE YOUR ACTORS } - John A De Goes & Wiem Zine Elabadine](https://www.youtube.com/watch?v=d6WWmia0BPM&list=PL8NC5lCgGs6MYG0hR_ZOhQLvtoyThURka)
+    * ZIO, STM, Promise, Queue and more_
 
 ### Articles
 

@@ -134,7 +134,7 @@
     * _FP design, tagless final, performance_  
 
 * [Gabriel Volpe - Cats Effect: The IO Monad for Scala](https://www.youtube.com/watch?v=8_TWM2t97r4&t=18s)
-    * _ Cats Effect, error handling, safe resource management, concurrency, parallelism_
+    * _Cats Effect, error handling, safe resource management, concurrency, parallelism_
 
 ### Articles
 
@@ -327,7 +327,7 @@
     * _fiber, Cats Effects, fs2_
 
 * [ATOMICALLY { DELETE YOUR ACTORS } - John A De Goes & Wiem Zine Elabadine](https://www.youtube.com/watch?v=d6WWmia0BPM&list=PL8NC5lCgGs6MYG0hR_ZOhQLvtoyThURka)
-    * ZIO, STM, Promise, Queue and more_
+    * _ZIO, STM, Promise, Queue and more_
 
 ### Articles
 

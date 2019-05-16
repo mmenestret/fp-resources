@@ -136,6 +136,9 @@
 * [Gabriel Volpe - Cats Effect: The IO Monad for Scala](https://www.youtube.com/watch?v=8_TWM2t97r4&t=18s)
     * _Cats Effect, error handling, safe resource management, concurrency, parallelism_
 
+* [John De Goes - Error Management: Future vs ZIO](https://www.youtube.com/watch?v=mGxcaQs3JWI)
+    * _Errors composition, ZIO, Future_
+
 ### Articles
 
 * [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)

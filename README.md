@@ -479,6 +479,8 @@
 
 * [Blog: reasonably polymorphic](http://reasonablypolymorphic.com/)
 
+* [Fabio Labella writings](http://systemfw.org/writings.html)
+
 <a name="books"></a>
 ## Books
 

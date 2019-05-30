@@ -141,8 +141,11 @@
 
 ### Articles
 
+* [IO monads, Tagless final, free and alternatives](https://kubuszok.com/2019/io-monad-which-why-and-how/#cats-io-vs-monix-task-vs-zio)
+    * _IO, Tagless final, Free, Eff_
+
 * [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
-    * _Functiona Effects, Tagless Final, ReaderT_
+    * _Functional Effects, Tagless Final, ReaderT_
 
 * [Effekt: Extensible Algebraic Effects in Scala](https://conf.researchr.org/event/scala-2017/scala-2017-papers-effekt-extensible-algebraic-effects-in-scala-short-paper-)
     * _Algebraic effects, Scala library Effekt_

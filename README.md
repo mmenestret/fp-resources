@@ -112,7 +112,7 @@
 * [How do Algebraic Data types compare to the concept of inheritance in Object Oriented Languages ?](https://www.quora.com/How-do-Algebraic-Data-types-in-say-Haskell-compare-to-the-concept-of-inheritance-in-Object-Oriented-Languages-in-say-Java/answer/Bartosz-Milewski?share=1c2ac3a8)
     * _Algebraic Data Types (ADTs)_
 
-* [Data type vs Data constructor](https://stackoverflow.com/a/18205862/10915960)
+* [Data type vs Data constructor](https://stackoverflow.com/a/18205862/10915960) [**Haskell**]
    * _What are data types and data constructors, how they relate in Haskell_
 
 <a name="effects"></a>
@@ -463,10 +463,10 @@
 * [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus) [**Haskell**]
     * _Haskell course_
 
-* [Data61 Haskell functional programming course](https://github.com/data61/fp-course)
+* [Data61 Haskell functional programming course](https://github.com/data61/fp-course) [**Haskell**]
     * _Haskell, Functional programming course_
 
-* [Google's Haskell 101 and 102](https://github.com/google/haskell-trainings)
+* [Google's Haskell 101 and 102](https://github.com/google/haskell-trainings) [**Haskell**]
    * _Haskell, Functional programming, beginner friendly_
 
 <a name="blogs"></a>

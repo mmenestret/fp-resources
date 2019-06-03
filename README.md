@@ -76,6 +76,8 @@
 * [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
     * _Algebraic Data Type (ADT)_
 
+* [A journey from imperative OO to pure functional programming](https://guizmaii.github.io/LilleFP/#1)
+
 <a name="types"></a>
 ## Types
 

@@ -53,6 +53,9 @@
 * [Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
     * _Live-refactor concurrent imperative program with ZIO_
 
+* [Functors, in theory and in practice! - Martin Menestret](https://www.youtube.com/watch?v=_zRBKHN8exA&feature=youtu.be)
+    * _Functors_
+
 ### Articles
 
 * [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)

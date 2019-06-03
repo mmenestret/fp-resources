@@ -457,13 +457,16 @@
 <a name="lectures"></a>
 ## Lectures
 
+* [FP Foundation - Julien Truffaut](https://github.com/julien-truffaut/fp-foundation)
+   * _Scala course, Functional programming_
+
 * [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus) [**Haskell**]
     * _Haskell course_
 
-- [Data61 Haskell functional programming course](https://github.com/data61/fp-course)
+* [Data61 Haskell functional programming course](https://github.com/data61/fp-course)
     * _Haskell, Functional programming course_
 
-- [Google's Haskell 101 and 102](https://github.com/google/haskell-trainings)
+* [Google's Haskell 101 and 102](https://github.com/google/haskell-trainings)
    * _Haskell, Functional programming, beginner friendly_
 
 <a name="blogs"></a>

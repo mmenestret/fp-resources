@@ -23,6 +23,7 @@
 * [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
 * [Repositories](#repositories)
+* [Events](#events)
 
 <a name="fp-patterns"></a>
 ## Functional Programming Patterns
@@ -558,6 +559,15 @@
 
 * [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
     * *Patterns from math (Category theory, Abstract algebra) in Scala*
+
+<a name="events"></a>
+## Events
+
+* [Upcomming events - Signify technology](https://www.signifytechnology.com/events)
+
+* [Upcoming events - Scala lang](https://www.scala-lang.org/events/)
+
+* [IT conferences Call For Papers list - SoftwareMill](https://github.com/softwaremill/it-cfp-list)
     
 ## Special thanks
 

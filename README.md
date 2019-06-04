@@ -469,6 +469,9 @@
 * [Google's Haskell 101 and 102](https://github.com/google/haskell-trainings) [**Haskell**]
    * _Haskell, Functional programming, beginner friendly_
 
+* [Teaching Tech Together](http://teachtogether.tech/)
+   * _Creating good tech teaching resources_
+
 <a name="blogs"></a>
 ## Blogs
 

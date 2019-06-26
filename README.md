@@ -403,9 +403,6 @@
 
 * [Category Theory - Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
     * _Category Theory playlist_
-
-* [Propositions as Types - Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)    
-    * _Relation between Logic and Computation_
     
 * [Stephen Pimentel - Propositions as Types for Beginners in Haskell](https://www.youtube.com/watch?v=tfG7T54MhIU&index=29&t=0s&list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) [**Haskell**]
     * _Curry-Howard isomorphism_

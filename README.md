@@ -236,6 +236,8 @@
     
 * [Finally Tagless - Not Quite Dead Yet](https://github.com/ncreep/bloggable-thoughts/tree/master/finally-tagless-not-quite-dead)
     * _Tagless Final, code examples_
+    
+* [The False Hope of Managing Effects with Tagless-Final in Scala](http://degoes.net/articles/tagless-horror)
 
 <a name="monad-stack"></a>
 ## Monad stack

@@ -168,6 +168,9 @@
 * [Why Functional Programming? It's the composition](https://tech.iheart.com/why-fp-its-the-composition-f585d17b01d3)
     * _Compositions, Effects, Functor, Monad, Category Theory_
 
+* [A Problem With I/O](http://www-cs-students.stanford.edu/~blynn/haskell/io.html) [**Haskell**]
+	* _Monad IO in Haskell_
+
 <a name="semigroup-monoid"></a>
 ## Semigroup / Monoid
 
@@ -296,7 +299,7 @@
     * _Free Monad vs MTL style_
 
 * [A tale of two Monads: Free vs MTL](https://tech.freckle.com/2017/09/28/benching-free/)
-    * _Journey through Free and MTL style
+    * _Journey through Free and MTL style_
 
 <a name="typeclass"></a>
 ## Typeclass
@@ -452,7 +455,7 @@
     * _High-Order Functions (HOFs) and Lazy Evaluation_
 
 * [Algebraic effects for Functional Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf)
-    * _Algebraic Effects, Type Inference, compilation scheme
+    * _Algebraic Effects, Type Inference, compilation scheme_
 
 <a name="lectures"></a>
 ## Lectures

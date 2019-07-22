@@ -557,7 +557,7 @@
     * _Http4s, Circe, Doobie, Cats, Cats Effects, ScalaCheck, Circe Config, Tagless Final_
 
 * [Befunge-93](https://github.com/SystemFw/Befunge-93)
-    * _Cats, Cats Effetcs, fs2, Tagless Final_
+    * _Cats, Cats Effects, fs2, Tagless Final_
 
 * [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
     * *Patterns from math (Category theory, Abstract algebra) in Scala*
@@ -565,7 +565,7 @@
 <a name="events"></a>
 ## Events
 
-* [Upcomming events - Signify technology](https://www.signifytechnology.com/events)
+* [Upcoming events - Signify technology](https://www.signifytechnology.com/events)
 
 * [Upcoming events - Scala lang](https://www.scala-lang.org/events/)
 

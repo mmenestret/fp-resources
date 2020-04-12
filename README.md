@@ -523,6 +523,8 @@
 
 * [The Books of Monads](https://www.goodreads.com/book/show/42449863-the-book-of-monads) [**Scala**] [**Haskell**]
 
+* [Practical FP in Scala, A Hands-on approach](https://leanpub.com/pfp-scala) 
+
 <a name="chat-rooms"></a>
 ## Chat rooms
 
